@@ -1,0 +1,7 @@
+title: Form Level Boosts
+description: Leveling forms gives boosts to Sora's abilities
+assets:
+- name: scripts/formLevelBoosts.lua
+  method: copy
+  source:
+  - name: formLevelBoosts.lua
